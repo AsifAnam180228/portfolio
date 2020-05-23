@@ -25,7 +25,7 @@ SECRET_KEY = 'q#ll!tx&r2l3bfs(f69pfv9l$4&1)a)ne-(+(&3th-8!(u(roj'
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['portfolio-anam180228.herokuapp.com\', '127.0.0.1' ]
+ALLOWED_HOSTS = ['portfolio-anam180228.herokuapp.com/', '127.0.0.1' ]
 
 
 
